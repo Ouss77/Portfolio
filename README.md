@@ -10,3 +10,4 @@ Each project represents a different aspect of my expertise and demonstrates my p
 
 ![Bookingproject](https://github.com/Ouss77/Portfolio/assets/83518153/75b740bf-fc91-4a1a-a47d-c9d608983d1b)
 <h1>****************************** </h1>
+<p> To run code: npm run dev</p>
